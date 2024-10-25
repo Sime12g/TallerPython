@@ -39,6 +39,8 @@ if __name__ == '__main__':
     print("\nIterando sobre el rango: ")
     for numero in rango:
         print(numero)
+        print(numero)
+        print(numero)
 
 
 
